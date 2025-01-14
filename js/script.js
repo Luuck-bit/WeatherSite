@@ -20,7 +20,7 @@ const weekDays = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Frida
 const today = new Date();
 const dayIndex = today.getDay();
 
-const apiKey = `6c078454f5ea44478bf1065200549171`;
+const apiKey = ``;
 const locate = document.getElementById('places');
 const form = document.getElementById('locationForm');
 const currentlyLocation = document.getElementById('currentlyLocate');
